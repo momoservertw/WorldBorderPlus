@@ -1,9 +1,10 @@
 ##  Minecraft server plugin
-***A branch of Brettflan's worldborder. It add bypass permission for vip players.***
-
-**Spigot:** [https://www.spigotmc.org/resources/entityplus.70592/](https://www.spigotmc.org/resources/entityplus.70592/)  
+***A branch of Brettflan's WorldBorder.***
 
 **Original-Author:** [Brettflan](https://github.com/Brettflan)
+**Original-Spigot:** [https://www.spigotmc.org/resources/worldborder.60905/](https://www.spigotmc.org/resources/worldborder.60905/)
+
+**Spigot:** [https://www.spigotmc.org/resources/entityplus.70592/](https://www.spigotmc.org/resources/entityplus.70592/)  
 **Author:** [Momocraft](https://github.com/momoservertw)
 
 # Features​
