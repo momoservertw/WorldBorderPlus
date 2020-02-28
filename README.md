@@ -1,2 +1,4 @@
-# WorldBorderPlus
-A branch of Brettflan's worldborder. It add bypass permission for vip players.
+WorldBorder
+===========
+
+<a href="https://www.spigotmc.org/resources/worldborder.60905/">Read more on the Spigot Resource page for this plugin.</a>
