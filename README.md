@@ -1,11 +1,11 @@
 ##  Minecraft server plugin
 ***A branch of Brettflan's WorldBorder.***
 
-**Original-Author:** [Brettflan](https://github.com/Brettflan)
-**Original-Spigot:** [https://www.spigotmc.org/resources/worldborder.60905/](https://www.spigotmc.org/resources/worldborder.60905/)
+**Original-Author:** [Brettflan](https://github.com/Brettflan)  
+**Original-Spigot:** [https://www.spigotmc.org/resources/worldborder.60905/](https://www.spigotmc.org/resources/worldborder.60905/)  
 
 **Spigot:** [https://www.spigotmc.org/resources/entityplus.70592/](https://www.spigotmc.org/resources/entityplus.70592/)  
-**Author:** [Momocraft](https://github.com/momoservertw)
+**Author:** [Momocraft](https://github.com/momoservertw)  
 
 # Features​
 **1. Bypass the limits of world border.**  
@@ -14,5 +14,5 @@ It can also be a remedy way to let new players build in the border, and not limi
 
 Permissions:  
 - worldborderplus.bypass.*  
-- worldborderplus.bypass.WORLD
+- worldborderplus.bypass.WORLD  
 ***
