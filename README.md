@@ -9,7 +9,10 @@
 
 # Features​
 **1. Bypass the limits of world border.**  
-Vip players can crossing the world border and place the blocks.
-It can also be a remedy way to let new players build in the border, and not limit the old players in your server.
-> Permissions: worldborderplus.bypass.* | worldborderplus.bypass.WORLD
+Vip players can crossing the world border and place the blocks.  
+It can also be a remedy way to let new players build in the border, and not limit the old players in your server.  
+
+Permissions:  
+- worldborderplus.bypass.*  
+- worldborderplus.bypass.WORLD
 ***
