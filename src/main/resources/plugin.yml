@@ -161,6 +161,10 @@ permissions:
   worldborderplus.bypass.*:
     description: Bypass the all world border.
     default: op
+    children:
+      worldborderplus.bypass.world: true
+      worldborderplus.bypass.world_nether: true
+      worldborderplus.bypass.world_the_end: true
   worldborderplus.bypass.world:
     description: Bypass the world "world" border.
     default: op

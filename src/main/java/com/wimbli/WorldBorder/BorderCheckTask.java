@@ -56,7 +56,7 @@ public class BorderCheckTask implements Runnable
 
 		// WorldBorderPlus
 		String worldName = world.getName();
-		if (player.hasPermission("worldborder.bypass.*") || player.hasPermission("worldborder.bypass." + worldName) || player.isOp()) {
+		if (player.hasPermission("worldborderplus.bypass.*") || player.hasPermission("worldborderplus.bypass." + worldName) || player.isOp()) {
 			return null;
 		}
 
